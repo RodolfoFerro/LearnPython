@@ -5,10 +5,10 @@ This repo will include several exercises to learn Python through practice. The i
 
 ## Contents
 
-0. Prerequisites
-  0.1. Git + GitHub
-  0.2. Anaconda
-  0.3. Jupyter Notebooks
+0. Prerequisites <br>
+  0.1. Git + GitHub <br>
+  0.2. Anaconda <br>
+  0.3. Jupyter Notebooks <br>
 1. Basics
   1.1. Types of variables
   1.2. Basic operations 
