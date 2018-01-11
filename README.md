@@ -9,9 +9,9 @@ This repo will include several exercises to learn Python through practice. The i
   0.1. Git + GitHub <br>
   0.2. Anaconda <br>
   0.3. Jupyter Notebooks <br>
-1. Basics
-  1.1. Types of variables
-  1.2. Basic operations 
+1. Basics <br>
+  1.1. Types of variables <br>
+  1.2. Basic operations <br>
 2. Testing
 3. Plotting
 4. Web development
